@@ -28,3 +28,16 @@ function renderCart(items) {
 		}
 		renderCart(cartLS.list())
 		cartLS.onChange(renderCart)
+        
+        // Definir la función para obtener los detalles
+        function getProductDetails(...ids) {
+            const details = {};
+
+            ids.forEach(id => {
+                const element = document.getElementById(id);
+                details[id] = element ? element.textContent.trim() : 'No disponible';
+            });
+
+            console.log(details); // Muestra los detalles en la consola
+            return details; // Opcional: devuelves los detalles si necesitas usarlos en otro lugar
+        }
