@@ -152,9 +152,9 @@
           <img id="RzJNokl" src="https://images.unsplash.com/photo-1535478044878-3ed83d5456ef?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0NHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="hHkzHou">
-          <product-id id="JzMRGun" contenteditable="true">123456789</product-id>
+          <product-id id="JzMRGun" contenteditable="true">123</product-id>
           <product-name id="wZsYsHd" contenteditable="true">Lorem ipsum</product-name>
-          <product-price id="dWJYqjc" contenteditable="true">100</product-price>
+          <product-price id="dWJYqjc" contenteditable="true">900</product-price>
         </item-body>
         <item-footer>
           <button id="edeyEVZ">Add to Cart </button>
@@ -165,9 +165,9 @@
           <img id="JQgFFhn" src="https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NDV8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="nEoYlph">
-          <product-id id="qfxpSfI" contenteditable="true">123456789</product-id>
+          <product-id id="qfxpSfI" contenteditable="true">456</product-id>
           <product-name id="SkcqhGH" contenteditable="true">Lorem ipsum</product-name>
-          <product-price id="WezPKTy" contenteditable="true">100</product-price>
+          <product-price id="WezPKTy" contenteditable="true">5</product-price>
         </item-body>
         <item-footer>
           <button id="MrThjAq">Add to Cart </button>
@@ -178,40 +178,14 @@
           <img id="QixUXMo" src="https://images.unsplash.com/photo-1502622796232-e88458466c33?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NjJ8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
         <item-body id="wvmUgMx">
-          <product-id id="gkEDMod" contenteditable="true">123456789</product-id>
+          <product-id id="gkEDMod" contenteditable="true">789</product-id>
           <product-name id="dIRebcv" contenteditable="true">Lorem ipsum</product-name>
-          <product-price id="jlXlxwX" contenteditable="true">100</product-price>
+          <product-price id="jlXlxwX" contenteditable="true">500</product-price>
         </item-body>
         <item-footer>
           <button id="FbedWUb">Add to Cart </button>
         </item-footer>
         <button class="no-export grid-delete-item" onclick="deleteItem('HAOKIfg')">-</button>
-      </grid-item><grid-item id="yoQEtuL">
-        <item-head id="QOQMpOc">
-          <img id="Sgtjyvv" src="https://images.unsplash.com/photo-1529600497935-f5fd7ccf888e?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0NXx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="PEWTFtk">
-          <product-id id="goXRJzA" contenteditable="true">123456789</product-id>
-          <product-name id="wRBPYfH" contenteditable="true">Lorem ipsum</product-name>
-          <product-price id="NOaXQxq" contenteditable="true">100</product-price>
-        </item-body>
-        <item-footer>
-          <button id="FGxcyIp">Add to Cart </button>
-        </item-footer>
-        <button class="no-export grid-delete-item" onclick="deleteItem('yoQEtuL')">-</button>
-      </grid-item><grid-item id="iaIHqOg">
-        <item-head id="BbJGeqH">
-          <img id="mGKHQiJ" src="https://images.unsplash.com/photo-1509664158680-07c5032b51e5?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw1NHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="RgWFJEg">
-          <product-id id="RNxEpFh" contenteditable="true">123456789</product-id>
-          <product-name id="lBGzRDJ" contenteditable="true">Lorem ipsum</product-name>
-          <product-price id="uwbOhrS" contenteditable="true">100</product-price>
-        </item-body>
-        <item-footer>
-          <button id="CfbIZlT">Add to Cart </button>
-        </item-footer>
-        <button class="no-export grid-delete-item" onclick="deleteItem('iaIHqOg')">-</button>
       </grid-item><button id="EaOapsX" class="no-export grid-add-item" onclick="products175x100('WkErrsw','EaOapsX', '../global/file/empty.svg')">+</button>
           </grid-box>
         </grid-container>
