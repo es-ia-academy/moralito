@@ -183,61 +183,64 @@
       <button class="toolbar-open" onclick="toolsOpenModal(this)"></button>
   </section>
   
-  <section id="HhtefSK" data-type="section">
+  
+  
+  <section id="VVsfEwL" data-type="section">
       
       <!--CSS-->
-      <style id="tocdXYJ" type="text/css" data-type="css" data-size="laptop" data-content="section">
-  sectionTLrwmvK{
+      <style id="iLjIFHz" type="text/css" data-type="css" data-size="laptop" data-content="section">
+
+  section#VVsfEwL {
     box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
-    position: sticky;
-    top: 0;
-    z-index: 999;
+    position:sticky;
+    top:0;
+    z-index:999;
   }
 
-  grid-container#CmyPvDC {
+  grid-container#FXPRfnd {
     position: relative;
   }
 
-  grid-bg#TLrwmvK {
+  grid-bg#rKPKIEG {
     position: absolute;
     height:100%;
     width:100%;
     z-index:-1;
     display:block;
   }
-  div#pvIxNGO,
-  div#LHPFhtk,
-  div#kVDavEf,
-  div#RaFaCNV{
+  div#cocXISn,
+  div#ICrqswF,
+  div#VJyypsP,
+  div#GHHRiLA{
     height:100%;
     width:100%;
   }
 
-  div#rAikivv{
-    height:100%;
-    width:100%;
-    
-  }
-
-  div#EFywTML{
+  div#akoFRmy{
     height:100%;
     width:100%;
     
   }
 
-  img#DpSMiBj {
+  div#olTbPdT{
+    height:100%;
+    width:100%;
+    
+  }
+
+  img#eseSAEg {
     object-fit:cover;
     height:100%;
     width:100%;
   }
 
-  video#dCLBrMX {
+  video#NJKcEJF {
     object-fit:cover;
     height:100%;
     width:100%;
   }
   
-  grid-box#LMkeuZO{
+  grid-nav#dpbbpij{
     display: grid;
     grid-template-columns: auto auto auto;
     grid-auto-rows: auto;
@@ -247,7 +250,7 @@
     place-content: center left;
     place-items: center;
   }
-  grid-item#kGoztQP{
+  grid-item#ZeEpvOg{
     display: grid;
     place-content: center;
     padding: 15px;
@@ -255,20 +258,20 @@
     height: auto;
   }
 
-  img#uehiMwa{
+  img#gYwROSJ{
     object-fit:cover;
     height:100%;
     width:100%;
   }
-  #xQCfUKE{
+  #wvAbZQH{
     display: flex;
     gap: 10px;
     flex-flow: wrap;
   }
-  #xQCfUKE a{
+  #wvAbZQH a{
     border: none;
     padding: 0 15px;
-    color: white;
+    color: black;
     font-size: 14px;
     border-radius: 10px;
     text-underline-position: under;
@@ -279,55 +282,35 @@
   }
   
   </style>
-      <style id="ShCfqRP" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){}</style>
-      <style id="vKMEBGp" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-box#LMkeuZO{
+      <style id="XrCPvja" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){}</style>
+      <style id="eewgOgv" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-box#dpbbpij{
     grid-template-columns: repeat(1, 1fr);
   }
   }</style>
       
       <!--HTML-->
-      <div id="wpoPwbV" data-type="html"><div class="container">
-  <div class="card mb-4 shadow-sm">
-    <div class="card-header">
-      <h4 class="my-0 font-weight-normal">Nike Air</h4>
-    </div>
-    <div class="card-body">
-      <h1 class="card-title pricing-card-title">$100</h1>
-      <button type="button" onclick="cartLS.add({id: 1, name: 'Nike Air', price: 100})">Add to Cart </button>
-    </div>
+      <div id="QNpMWQx" data-type="html"><div class="carrito" style="position:fixed; left:0;bottom:0; width:100%;background:red;padding:10px;">
+  <div class="card-header">
+    <h2>Cart <small>(<span class="total-quantity"></span> items)</small>
+    </h2>
   </div>
-  <div class="card mb-4 shadow-sm">
-    <div class="card-header">
-      <h4 class="my-0 font-weight-normal">Nike Air2</h4>
-    </div>
-    <div class="card-body">
-      <h1 class="card-title pricing-card-title">$200</h1>
-      <button type="button" onclick="cartLS.add({id: 2, name: 'Nike Air 2', price: 200})">Add to Cart </button>
-    </div>
-  </div>
-  <div class="carrito" style="position:fixed; left:0;bottom:0; width:100%;background:red;padding:10px;">
-    <div class="card-header">
-      <h2>Cart <small>(<span class="total-quantity"></span> items)</small>
-      </h2>
-    </div>
-    <div class="card-body">
-      <button class="btn btn-outline-warning mr-2" onclick="cartLS.destroy()">Empty</button><table class="table">
-        <tbody class="cart">
-        </tbody>
-        <tfoot>
-          <tr><td class="text-right">Total: <strong class="total"></strong>
-          </td>
-          
-          <td></td>
-        </tr></tfoot>
-      </table>
-    </div>
+  <div class="card-body">
+    <button class="btn btn-outline-warning mr-2" onclick="cartLS.destroy()">Empty</button><table class="table">
+      <tbody class="cart">
+      </tbody>
+      <tfoot>
+        <tr><td class="text-right">Total: <strong class="total"></strong>
+        </td>
+        
+        <td></td>
+      </tr></tfoot>
+    </table>
   </div>
 </div></div>
       
       <!--JS-->
-      <script id="RBMqRuV" data-type="js"></script>
+      <script id="nJqYFAg" data-type="js"></script>
       <!--EDIT-->
       <button class="toolbar-open" onclick="toolsOpenModal(this)"></button>
   </section>
