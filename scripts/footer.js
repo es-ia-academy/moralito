@@ -46,6 +46,16 @@ function renderCart(items) {
     details.name = nameElement ? nameElement.textContent.trim() : 'No disponible';
     details.price = priceElement ? priceElement.textContent.trim() : 'No disponible';
 
+    // Verificar y convertir tipos de datos
+    details.id = isNaN(Number(details.id)) ? details.id : Number(details.id);
+    details.name = isNaN(Number(details.name)) ? details.name : Number(details.name);
+    details.price = isNaN(Number(details.price)) ? details.price : Number(details.price);
+
+    // Mostrar los resultados en la consola
+    console.log('ID:', details.id, 'Tipo:', typeof details.id);
+    console.log('Name:', details.name, 'Tipo:', typeof details.name);
+    console.log('Price:', details.price, 'Tipo:', typeof details.price);
+
     // Agregar al carrito
     cartLS.add(details);
 }
