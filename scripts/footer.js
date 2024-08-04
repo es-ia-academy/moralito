@@ -1,3 +1,45 @@
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', function (e) {
+    e.preventDefault();
+    const targetId = this.getAttribute('href');
+    const targetElement = document.querySelector(targetId);
+    const navHeight = document.querySelector('grid-nav').offsetHeight;
+    const targetPosition = targetElement.getBoundingClientRect().top +
+      window.pageYOffset - navHeight;
+    window.scrollTo({
+      top: targetPosition,
+      behavior: 'smooth'
+    });
+  });
+});
+
+function makeClickableDivs() {
+  // Select all div elements
+  const divs = document.querySelectorAll('grid-item');
+
+  divs.forEach(div => {
+    // Check if the div contains any links
+    const link = div.querySelector('a');
+
+    if (link) {
+      // Make the div clickable
+      div.style.cursor = 'pointer';
+
+      // Add click event listener to the div
+      div.addEventListener('click', function (event) {
+        // Prevent the click from propagating to elements underneath
+        event.stopPropagation();
+
+        // Simulate a click on the first link found in the div
+        link.click();
+      });
+    }
+  });
+}
+
+// Call the function when the DOM is fully loaded
+document.addEventListener('DOMContentLoaded', makeClickableDivs);
+
 function renderCart(items) {
 			const $cart = document.querySelector(".cart")
 			const $total = document.querySelector(".total")
