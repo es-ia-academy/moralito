@@ -1,11 +1,11 @@
-<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page"></style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body"><section id="fFTSjeO" data-type="section">
+<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page"></style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body"><section id="DqfXjnj" data-type="section">
       
       <!--CSS-->
-      <style id="YEIpADt" type="text/css" data-type="css" data-size="laptop" data-content="section">
-  grid-container#UerMkxF {
+      <style id="gCeNCcE" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  grid-container#TYsZEJZ {
     position: relative;
   }
-  grid-box#WkErrsw{
+  grid-box#ydvaPcp{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(auto, 175px));
     grid-auto-rows: auto;
@@ -15,98 +15,98 @@
     padding: 3%;
     place-content: baseline;
   }
-  grid-bg#aKzCwPc {
+  grid-bg#MGquLUS {
     position: absolute;
     height:100%;
     width:100%;
     z-index:-1;
     display:block;
   }
-  div#iSHnXNp,
-  div#iferBiG,
-  div#iwXWhSM,
-  div#ReOwdCv{
+  div#zISuiJg,
+  div#tiSIQhC,
+  div#xaMEfPl,
+  div#AyGecZQ{
     height:100%;
     width:100%;
   }
 
-  div#hyttfJQ{
+  div#ZckxgIf{
     height:100%;
     width:100%;
     
   }
 
-  div#nbikhKo{
+  div#NfHXGHT{
     height:100%;
     width:100%;
     
   }
 
-  img#VevhjtI {
+  img#ctQNqvs {
     object-fit:cover;
     height:100%;
     width:100%;
   }
 
-  video#jUkuwtm {
+  video#uwehDFg {
     object-fit:cover;
     height:100%;
     width:100%;
   }
-  grid-box#WkErrsw grid-item {
+  grid-box#ydvaPcp grid-item {
     box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
     border-radius: 10px;
     overflow: hidden;
     background:white;
   }
-  grid-box#WkErrsw item-body {
+  grid-box#ydvaPcp item-body {
     padding: 15px;
     display: grid;
     gap: 10px;
   }
 
-  grid-box#WkErrsw grid-title {
+  grid-box#ydvaPcp grid-title {
     font-size:1.5rem;
     color:black;
   }
 
-  grid-box#WkErrsw grid-desc {
+  grid-box#ydvaPcp grid-desc {
     font-size: 12px;
     color: #929292;
   }
 
-  grid-box#WkErrsw item-title {
+  grid-box#ydvaPcp item-title {
     color: black;
   }
 
-  grid-box#WkErrsw item-desc {
+  grid-box#ydvaPcp item-desc {
     display: grid;
     font-size: 12px;
     color: #929292;
   }
-  grid-head#jwGlhRa{
+  grid-head#VcuAaxe{
     grid-column: 1 / -1;
     display: grid;
     margin-left: 15px;
   }
-  grid-box#WkErrsw item-head img{
+  grid-box#ydvaPcp item-head img{
     background-color: white;
     height: 100px;
     width:100%;
     object-fit:cover;
   }
   </style>
-      <style id="kPTrbsI" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-box#WkErrsw {
+      <style id="fSbAoga" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-box#ydvaPcp {
     display: grid;
   }
   }</style>
-      <style id="GVOfxOv" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-head#jwGlhRa{
+      <style id="cPLwRiw" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-head#VcuAaxe{
     text-align: center;
     padding: 35px;
   }
-  grid-box#WkErrsw {
+  grid-box#ydvaPcp {
       display: grid;
       gap:5px;
       padding:0;
@@ -115,84 +115,115 @@
   }</style>
       
       <!--HTML-->
-      <div id="jgGRSDR" data-type="html">
-        <grid-container id="GZrKRQC">
+      <div id="pXUdAJF" data-type="html">
+        <grid-container id="bUEJYXZ">
           
-        <grid-bg id="aKzCwPc" data-type="grid-bg">
+        <grid-bg id="MGquLUS" data-type="grid-bg">
           <!-- bg-color -->
-          <div id="iSHnXNp" data-type="bg-color" class="div-visible">
-            <div id="iferBiG" data-type="solid-color" class="div-visible" style="background: rgb(255, 255, 255);"></div>
-            <div id="iwXWhSM" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
-            <div id="ReOwdCv" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
+          <div id="zISuiJg" data-type="bg-color" class="div-visible">
+            <div id="tiSIQhC" data-type="solid-color" class="div-visible" style="background: rgb(255, 255, 255);"></div>
+            <div id="xaMEfPl" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
+            <div id="AyGecZQ" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
           </div> 
           <!-- bg-image -->
-          <div id="hyttfJQ" data-type="bg-image" class="div-hidden">
-            <picture id="nkMJxIJ">
+          <div id="ZckxgIf" data-type="bg-image" class="div-hidden">
+            <picture id="MnFEQNQ">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="VevhjtI" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/1707848593-1.webp" data-type="img-bg" loading="lazy">
+              <img id="ctQNqvs" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/1707848593-1.webp" data-type="img-bg" loading="lazy">
             </picture>
           </div> 
           <!-- bg-video -->
-          <div id="nbikhKo" data-type="bg-video" class="div-hidden">
-            <video id="jUkuwtm" autoplay="" loop="" muted="" loading="lazy">
+          <div id="NfHXGHT" data-type="bg-video" class="div-hidden">
+            <video id="uwehDFg" autoplay="" loop="" muted="" loading="lazy">
               <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
             </video>
           </div> 
         </grid-bg>
 
 
-          <grid-box id="WkErrsw">
-            <grid-head id="jwGlhRa">
-              <grid-title id="zIKGuxF" contenteditable="true">Lorem ipsum</grid-title>
-              <grid-desc id="emTtjpX" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
+          <grid-box id="ydvaPcp">
+            <grid-head id="VcuAaxe">
+              <grid-title id="GAyTvrl" contenteditable="true">Lorem ipsum</grid-title>
+              <grid-desc id="baeYIig" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
             </grid-head>
-            <grid-item id="duCFkox">
-        <item-head id="SIkTTHH">
-          <img id="RzJNokl" src="https://images.unsplash.com/photo-1535478044878-3ed83d5456ef?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0NHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
+            <grid-item id="KieswWn">
+        <item-head id="OxfBJnN">
+          <img id="DjcuXJi" src="https://images.unsplash.com/photo-1535478044878-3ed83d5456ef?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0NHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
-        <item-body id="hHkzHou">
-          <product-id id="JzMRGun" contenteditable="true">123</product-id>
-          <product-name id="wZsYsHd" contenteditable="true">Lorem ipsum</product-name>
-          <product-price id="dWJYqjc" contenteditable="true">900</product-price>
+        <item-body id="RluDjZa">
+          <product-id id="SbxLbHK" contenteditable="true">123456789</product-id>
+          <product-name id="vkJhqjJ" contenteditable="true">Lorem ipsum</product-name>
+          <product-price id="RUPVPUv" contenteditable="true">100</product-price>
         </item-body>
         <item-footer>
-          <button id="edeyEVZ">Add to Cart </button>
+          
+          <button id="wgVMkqx" onclick="getProductDetails('SbxLbHK', 'vkJhqjJ', 'RUPVPUv');">Obtener Datos</button>
         </item-footer>
-        <button class="no-export grid-delete-item" onclick="deleteItem('duCFkox')">-</button>
-      </grid-item><grid-item id="BmyKAyJ">
-        <item-head id="lUHLQVX">
-          <img id="JQgFFhn" src="https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NDV8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
+        <button class="no-export grid-delete-item" onclick="deleteItem('KieswWn')">-</button>
+      </grid-item><grid-item id="hRZVTsk">
+        <item-head id="bYeNBlO">
+          <img id="iZCDVap" src="https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NDV8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
-        <item-body id="nEoYlph">
-          <product-id id="qfxpSfI" contenteditable="true">456</product-id>
-          <product-name id="SkcqhGH" contenteditable="true">Lorem ipsum</product-name>
-          <product-price id="WezPKTy" contenteditable="true">5</product-price>
+        <item-body id="KeIZAfU">
+          <product-id id="DQfSalL" contenteditable="true">123456789</product-id>
+          <product-name id="eWKNFDM" contenteditable="true">Lorem ipsum</product-name>
+          <product-price id="XDhLTFT" contenteditable="true">100</product-price>
         </item-body>
         <item-footer>
-          <button id="MrThjAq">Add to Cart </button>
+          
+          <button id="dTmIIjn" onclick="getProductDetails('DQfSalL', 'eWKNFDM', 'XDhLTFT');">Obtener Datos</button>
         </item-footer>
-        <button class="no-export grid-delete-item" onclick="deleteItem('BmyKAyJ')">-</button>
-      </grid-item><grid-item id="HAOKIfg">
-        <item-head id="kFGeSUr">
-          <img id="QixUXMo" src="https://images.unsplash.com/photo-1502622796232-e88458466c33?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NjJ8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
+        <button class="no-export grid-delete-item" onclick="deleteItem('hRZVTsk')">-</button>
+      </grid-item><grid-item id="tcDveWC">
+        <item-head id="ZpFmTni">
+          <img id="rVtwZiq" src="https://images.unsplash.com/photo-1502622796232-e88458466c33?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NjJ8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
-        <item-body id="wvmUgMx">
-          <product-id id="gkEDMod" contenteditable="true">789</product-id>
-          <product-name id="dIRebcv" contenteditable="true">Lorem ipsum</product-name>
-          <product-price id="jlXlxwX" contenteditable="true">500</product-price>
+        <item-body id="ydEpgTo">
+          <product-id id="fgGpcjt" contenteditable="true">123456789</product-id>
+          <product-name id="SCmWMbL" contenteditable="true">Lorem ipsum</product-name>
+          <product-price id="pgVbveS" contenteditable="true">100</product-price>
         </item-body>
         <item-footer>
-          <button id="FbedWUb">Add to Cart </button>
+          
+          <button id="aFnqWxN" onclick="getProductDetails('fgGpcjt', 'SCmWMbL', 'pgVbveS');">Obtener Datos</button>
         </item-footer>
-        <button class="no-export grid-delete-item" onclick="deleteItem('HAOKIfg')">-</button>
-      </grid-item><button id="EaOapsX" class="no-export grid-add-item" onclick="products175x100('WkErrsw','EaOapsX', '../global/file/empty.svg')">+</button>
+        <button class="no-export grid-delete-item" onclick="deleteItem('tcDveWC')">-</button>
+      </grid-item><grid-item id="zJWDjuj">
+        <item-head id="lFwssSd">
+          <img id="EwrNVay" src="https://images.unsplash.com/photo-1529600497935-f5fd7ccf888e?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0NXx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="FcJlbfH">
+          <product-id id="MBTaMtz" contenteditable="true">123456789</product-id>
+          <product-name id="GKnppsI" contenteditable="true">Lorem ipsum</product-name>
+          <product-price id="xvxsOFZ" contenteditable="true">100</product-price>
+        </item-body>
+        <item-footer>
+          
+          <button id="JLfXnEI" onclick="getProductDetails('MBTaMtz', 'GKnppsI', 'xvxsOFZ');">Obtener Datos</button>
+        </item-footer>
+        <button class="no-export grid-delete-item" onclick="deleteItem('zJWDjuj')">-</button>
+      </grid-item><grid-item id="IsSAmDf">
+        <item-head id="ahVSJfF">
+          <img id="btxWExP" src="https://images.unsplash.com/photo-1509664158680-07c5032b51e5?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw1NHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
+        </item-head>
+        <item-body id="FXcZBdu">
+          <product-id id="bjiCUJc" contenteditable="true">123456789</product-id>
+          <product-name id="VYmIwTV" contenteditable="true">Lorem ipsum</product-name>
+          <product-price id="RtLfCBI" contenteditable="true">100</product-price>
+        </item-body>
+        <item-footer>
+          
+          <button id="rfxOvKE" onclick="getProductDetails('bjiCUJc', 'VYmIwTV', 'RtLfCBI');">Obtener Datos</button>
+        </item-footer>
+        <button class="no-export grid-delete-item" onclick="deleteItem('IsSAmDf')">-</button>
+      </grid-item><button id="yxDnnUJ" class="no-export grid-add-item" onclick="products175x100('ydvaPcp','yxDnnUJ', '../global/file/empty.svg')">+</button>
           </grid-box>
         </grid-container>
       </div>
       
       <!--JS-->
-      <script id="FgzOfEa" data-type="js"></script>
+      <script id="YTHwVdP" data-type="js"></script>
       <!--EDIT-->
       <button class="toolbar-open" onclick="toolsOpenModal(this)"></button>
   </section><section id="YnQJSZj" data-type="section"><!--CSS--><style id="Abotjah" type="text/css" data-type="css" data-size="laptop" data-content="section">
