@@ -1,7 +1,4 @@
-<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page"></style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body"><section id="DqfXjnj" data-type="section">
-      
-      <!--CSS-->
-      <style id="gCeNCcE" type="text/css" data-type="css" data-size="laptop" data-content="section">
+<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page"></style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body"><section id="DqfXjnj" data-type="section"><!--CSS--><style id="gCeNCcE" type="text/css" data-type="css" data-size="laptop" data-content="section">
   grid-container#TYsZEJZ {
     position: relative;
   }
@@ -95,13 +92,11 @@
     width:100%;
     object-fit:cover;
   }
-  </style>
-      <style id="fSbAoga" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  </style><style id="fSbAoga" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
   grid-box#ydvaPcp {
     display: grid;
   }
-  }</style>
-      <style id="cPLwRiw" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  }</style><style id="cPLwRiw" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
   grid-head#VcuAaxe{
     text-align: center;
     padding: 35px;
@@ -112,121 +107,7 @@
       padding:0;
       grid-template-columns: 1fr 1fr;
   }
-  }</style>
-      
-      <!--HTML-->
-      <div id="pXUdAJF" data-type="html">
-        <grid-container id="bUEJYXZ">
-          
-        <grid-bg id="MGquLUS" data-type="grid-bg">
-          <!-- bg-color -->
-          <div id="zISuiJg" data-type="bg-color" class="div-visible">
-            <div id="tiSIQhC" data-type="solid-color" class="div-visible" style="background: rgb(255, 255, 255);"></div>
-            <div id="xaMEfPl" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
-            <div id="AyGecZQ" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
-          </div> 
-          <!-- bg-image -->
-          <div id="ZckxgIf" data-type="bg-image" class="div-hidden">
-            <picture id="MnFEQNQ">
-              <source srcset="" media="(max-width:640px)">
-              <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="ctQNqvs" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/1707848593-1.webp" data-type="img-bg" loading="lazy">
-            </picture>
-          </div> 
-          <!-- bg-video -->
-          <div id="NfHXGHT" data-type="bg-video" class="div-hidden">
-            <video id="uwehDFg" autoplay="" loop="" muted="" loading="lazy">
-              <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
-            </video>
-          </div> 
-        </grid-bg>
-
-
-          <grid-box id="ydvaPcp">
-            <grid-head id="VcuAaxe">
-              <grid-title id="GAyTvrl" contenteditable="true">Lorem ipsum</grid-title>
-              <grid-desc id="baeYIig" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
-            </grid-head>
-            <grid-item id="KieswWn">
-        <item-head id="OxfBJnN">
-          <img id="DjcuXJi" src="https://images.unsplash.com/photo-1535478044878-3ed83d5456ef?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0NHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="RluDjZa">
-          <product-id id="SbxLbHK" contenteditable="true">123456789</product-id>
-          <product-name id="vkJhqjJ" contenteditable="true">Lorem ipsum</product-name>
-          <product-price id="RUPVPUv" contenteditable="true">100</product-price>
-        </item-body>
-        <item-footer>
-          
-          <button id="wgVMkqx" onclick="getProductDetails('SbxLbHK', 'vkJhqjJ', 'RUPVPUv');">Obtener Datos</button>
-        </item-footer>
-        <button class="no-export grid-delete-item" onclick="deleteItem('KieswWn')">-</button>
-      </grid-item><grid-item id="hRZVTsk">
-        <item-head id="bYeNBlO">
-          <img id="iZCDVap" src="https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NDV8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="KeIZAfU">
-          <product-id id="DQfSalL" contenteditable="true">123456789</product-id>
-          <product-name id="eWKNFDM" contenteditable="true">Lorem ipsum</product-name>
-          <product-price id="XDhLTFT" contenteditable="true">100</product-price>
-        </item-body>
-        <item-footer>
-          
-          <button id="dTmIIjn" onclick="getProductDetails('DQfSalL', 'eWKNFDM', 'XDhLTFT');">Obtener Datos</button>
-        </item-footer>
-        <button class="no-export grid-delete-item" onclick="deleteItem('hRZVTsk')">-</button>
-      </grid-item><grid-item id="tcDveWC">
-        <item-head id="ZpFmTni">
-          <img id="rVtwZiq" src="https://images.unsplash.com/photo-1502622796232-e88458466c33?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NjJ8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="ydEpgTo">
-          <product-id id="fgGpcjt" contenteditable="true">123456789</product-id>
-          <product-name id="SCmWMbL" contenteditable="true">Lorem ipsum</product-name>
-          <product-price id="pgVbveS" contenteditable="true">100</product-price>
-        </item-body>
-        <item-footer>
-          
-          <button id="aFnqWxN" onclick="getProductDetails('fgGpcjt', 'SCmWMbL', 'pgVbveS');">Obtener Datos</button>
-        </item-footer>
-        <button class="no-export grid-delete-item" onclick="deleteItem('tcDveWC')">-</button>
-      </grid-item><grid-item id="zJWDjuj">
-        <item-head id="lFwssSd">
-          <img id="EwrNVay" src="https://images.unsplash.com/photo-1529600497935-f5fd7ccf888e?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0NXx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="FcJlbfH">
-          <product-id id="MBTaMtz" contenteditable="true">123456789</product-id>
-          <product-name id="GKnppsI" contenteditable="true">Lorem ipsum</product-name>
-          <product-price id="xvxsOFZ" contenteditable="true">100</product-price>
-        </item-body>
-        <item-footer>
-          
-          <button id="JLfXnEI" onclick="getProductDetails('MBTaMtz', 'GKnppsI', 'xvxsOFZ');">Obtener Datos</button>
-        </item-footer>
-        <button class="no-export grid-delete-item" onclick="deleteItem('zJWDjuj')">-</button>
-      </grid-item><grid-item id="IsSAmDf">
-        <item-head id="ahVSJfF">
-          <img id="btxWExP" src="https://images.unsplash.com/photo-1509664158680-07c5032b51e5?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw1NHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="FXcZBdu">
-          <product-id id="bjiCUJc" contenteditable="true">123456789</product-id>
-          <product-name id="VYmIwTV" contenteditable="true">Lorem ipsum</product-name>
-          <product-price id="RtLfCBI" contenteditable="true">100</product-price>
-        </item-body>
-        <item-footer>
-          
-          <button id="rfxOvKE" onclick="getProductDetails('bjiCUJc', 'VYmIwTV', 'RtLfCBI');">Obtener Datos</button>
-        </item-footer>
-        <button class="no-export grid-delete-item" onclick="deleteItem('IsSAmDf')">-</button>
-      </grid-item><button id="yxDnnUJ" class="no-export grid-add-item" onclick="products175x100('ydvaPcp','yxDnnUJ', '../global/file/empty.svg')">+</button>
-          </grid-box>
-        </grid-container>
-      </div>
-      
-      <!--JS-->
-      <script id="YTHwVdP" data-type="js"></script>
-      <!--EDIT-->
-      <button class="toolbar-open" onclick="toolsOpenModal(this)"></button>
-  </section><section id="YnQJSZj" data-type="section"><!--CSS--><style id="Abotjah" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  }</style><!--HTML--><div id="pXUdAJF" data-type="html"><grid-container id="bUEJYXZ"><grid-bg id="MGquLUS" data-type="grid-bg"><!-- bg-color --><div id="zISuiJg" data-type="bg-color" class="div-visible"><div id="tiSIQhC" data-type="solid-color" class="div-visible" style="background: rgb(255, 255, 255);"></div><div id="xaMEfPl" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div><div id="AyGecZQ" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div></div><!-- bg-image --><div id="ZckxgIf" data-type="bg-image" class="div-hidden"><picture id="MnFEQNQ"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="ctQNqvs" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/1707848593-1.webp" data-type="img-bg" loading="lazy"></picture></div><!-- bg-video --><div id="NfHXGHT" data-type="bg-video" class="div-hidden"><video id="uwehDFg" autoplay="" loop="" muted="" loading="lazy"><source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4"></video></div></grid-bg><grid-box id="ydvaPcp"><grid-head id="VcuAaxe"><grid-title id="GAyTvrl" contenteditable="true">Lorem ipsum</grid-title><grid-desc id="baeYIig" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc></grid-head><grid-item id="KieswWn"><item-head id="OxfBJnN"><img id="DjcuXJi" src="https://images.unsplash.com/photo-1535478044878-3ed83d5456ef?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0NHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="RluDjZa"><product-id id="SbxLbHK" contenteditable="true">123</product-id><product-name id="vkJhqjJ" contenteditable="true">Producto1</product-name><product-price id="RUPVPUv" contenteditable="true">50</product-price></item-body><item-footer><button id="wgVMkqx" onclick="getProductDetails('SbxLbHK', 'vkJhqjJ', 'RUPVPUv');">Obtener Datos</button></item-footer><button class="no-export grid-delete-item" onclick="deleteItem('KieswWn')">-</button></grid-item><grid-item id="hRZVTsk"><item-head id="bYeNBlO"><img id="iZCDVap" src="https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NDV8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="KeIZAfU"><product-id id="DQfSalL" contenteditable="true">456</product-id><product-name id="eWKNFDM" contenteditable="true">Producto2</product-name><product-price id="XDhLTFT" contenteditable="true">100</product-price></item-body><item-footer><button id="dTmIIjn" onclick="getProductDetails('DQfSalL', 'eWKNFDM', 'XDhLTFT');">Obtener Datos</button></item-footer><button class="no-export grid-delete-item" onclick="deleteItem('hRZVTsk')">-</button></grid-item><grid-item id="tcDveWC"><item-head id="ZpFmTni"><img id="rVtwZiq" src="https://images.unsplash.com/photo-1502622796232-e88458466c33?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NjJ8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy"></item-head><item-body id="ydEpgTo"><product-id id="fgGpcjt" contenteditable="true">789</product-id><product-name id="SCmWMbL" contenteditable="true">Producto3</product-name><product-price id="pgVbveS" contenteditable="true">150</product-price></item-body><item-footer><button id="aFnqWxN" onclick="getProductDetails('fgGpcjt', 'SCmWMbL', 'pgVbveS');">Obtener Datos</button></item-footer><button class="no-export grid-delete-item" onclick="deleteItem('tcDveWC')">-</button></grid-item><button id="yxDnnUJ" class="no-export grid-add-item" onclick="products175x100('ydvaPcp','yxDnnUJ', '../global/file/empty.svg')">+</button></grid-box></grid-container></div><!--JS--><script id="YTHwVdP" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"></button></section><section id="YnQJSZj" data-type="section"><!--CSS--><style id="Abotjah" type="text/css" data-type="css" data-size="laptop" data-content="section">
 
   section#YnQJSZj {
     box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
@@ -323,6 +204,4 @@
   grid-box#IhNQUyJ{
     grid-template-columns: repeat(1, 1fr);
   }
-  }</style><!--HTML--><div id="NMVOlys" data-type="html"><div class="carrito" style="width:100%;background:red;padding:10px;"><div class="card-header"><h2>Cart <small>(<span class="total-quantity"></span> items)</small></h2></div><div class="card-body"><button class="btn btn-outline-warning mr-2" onclick="cartLS.destroy()">Empty</button><table class="table"><tbody class="cart"></tbody><tfoot><tr><td class="text-right">Total: <strong class="total"></strong></td><td></td></tr></tfoot></table></div></div></div><!--JS--><script id="vGdwXnB" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"></button></section>
-  
-  </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
+  }</style><!--HTML--><div id="NMVOlys" data-type="html"><div class="carrito" style="width:100%;background:red;padding:10px;"><div class="card-header"><h2>Cart <small>(<span class="total-quantity"></span> items)</small></h2></div><div class="card-body"><button class="btn btn-outline-warning mr-2" onclick="cartLS.destroy()">Empty</button><table class="table"><tbody class="cart"></tbody><tfoot><tr><td class="text-right">Total: <strong class="total"></strong></td><td></td></tr></tfoot></table></div></div></div><!--JS--><script id="vGdwXnB" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"></button></section></grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
