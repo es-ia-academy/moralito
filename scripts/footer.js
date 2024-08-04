@@ -29,15 +29,26 @@ function renderCart(items) {
 		renderCart(cartLS.list())
 		cartLS.onChange(renderCart)
         
-        // Definir la función para obtener los detalles
-        function getProductDetails(...ids) {
-            const details = {};
+       
+       function getProductDetails() {
+            // Crear el objeto con las propiedades específicas
+            const details = {
+                id: '',
+                name: '',
+                price: ''
+            };
 
-            ids.forEach(id => {
-                const element = document.getElementById(id);
-                details[id] = element ? element.textContent.trim() : 'No disponible';
-            });
+            // Recuperar los elementos por sus IDs y asignar los valores al objeto
+            const idElement = document.getElementById('arzFhCa');
+            const nameElement = document.getElementById('KeOyCtZ');
+            const priceElement = document.getElementById('RRlnWZt');
 
-            console.log(details); // Muestra los detalles en la consola
-            return details; // Opcional: devuelves los detalles si necesitas usarlos en otro lugar
+            // Asignar valores a las propiedades del objeto
+            details.id = idElement ? idElement.textContent.trim() : 'No disponible';
+            details.name = nameElement ? nameElement.textContent.trim() : 'No disponible';
+            details.price = priceElement ? priceElement.textContent.trim() : 'No disponible';
+
+            // Mostrar el objeto en la consola
+            console.log(details);
+            return details;
         }
