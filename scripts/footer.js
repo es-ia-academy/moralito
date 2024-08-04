@@ -30,7 +30,7 @@ function renderCart(items) {
 		cartLS.onChange(renderCart)
         
        
-       function getProductDetails() {
+     function getProductDetails(prodID, prodName, prodPrice) {
             // Crear el objeto con las propiedades específicas
             const details = {
                 id: '',
@@ -38,12 +38,12 @@ function renderCart(items) {
                 price: ''
             };
 
-            // Recuperar los elementos por sus IDs y asignar los valores al objeto
-            const idElement = document.getElementById('arzFhCa');
-            const nameElement = document.getElementById('KeOyCtZ');
-            const priceElement = document.getElementById('RRlnWZt');
+            // Recuperar los elementos por sus IDs proporcionados
+            const idElement = document.getElementById(prodID);
+            const nameElement = document.getElementById(prodName);
+            const priceElement = document.getElementById(prodPrice);
 
-            // Asignar valores a las propiedades del objeto
+            // Asignar valores al objeto
             details.id = idElement ? idElement.textContent.trim() : 'No disponible';
             details.name = nameElement ? nameElement.textContent.trim() : 'No disponible';
             details.price = priceElement ? priceElement.textContent.trim() : 'No disponible';
