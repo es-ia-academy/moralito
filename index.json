@@ -1,4 +1,18 @@
-<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page"></style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body"><section id="ZgQzlfx" data-type="navigation"><!--CSS--><style id="bRQozlC" type="text/css" data-type="css" data-size="laptop" data-content="section">
+<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">span.total-quantity {
+  position: absolute;
+  top: -15px;
+  background: red;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  font-size: 12px;
+  display: grid;
+  place-content: center;
+  color: white;
+  font-weight: 600;
+  right: -20px;
+}
+</style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body"><section id="ZgQzlfx" data-type="navigation"><!--CSS--><style id="bRQozlC" type="text/css" data-type="css" data-size="laptop" data-content="section">
 
   section#ZgQzlfx {
     box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
