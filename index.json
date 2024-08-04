@@ -103,37 +103,7 @@
   grid-box#FmcHWNT{
     grid-template-columns: repeat(1, 1fr);
   }
-  }</style><!--HTML--><div id="skdaadg" data-type="html"><grid-container id="wqCKriE"><grid-bg id="GmHRmxI" data-type="grid-bg"><!-- bg-color -->
-    <div id="JTGSrBB" data-type="bg-color" class="div-visible">
-      <div id="EitxIKU" data-type="solid-color" class="div-visible" style="background: rgb(255, 255, 255);"></div>
-      <div id="bgFiXDe" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
-      <div id="GFzUevR" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
-    </div><!-- bg-image -->
-    <div id="rIQDejJ" data-type="bg-image" class="div-hidden">
-      <picture id="bnVjLrd">
-        <source srcset="" media="(max-width:640px)">
-        <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-        <img id="JpFLXUN" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy">
-      </picture>
-    </div><!-- bg-video -->
-    <div id="acaIhNt" data-type="bg-video" class="div-hidden">
-      <video id="VpXHkRe" autoplay="" loop="" muted="" loading="lazy">
-        <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
-      </video>
-    </div>
-  </grid-bg><grid-nav id="FmcHWNT"><grid-item id="mtxABZR"><grid-box id="EmYttoi"><grid-item id="bHVVdit">
-          <a id="XujwgdL" href="#LxEEKxk" contenteditable="true">MENU</a>
-          <button class="no-export button-delete-item" onclick="deleteItem('bHVVdit')">-</button>
-        </grid-item>
-        <button id="sbCIFiY" class="no-export grid-add-item" onclick="itemsLinks('EmYttoi','sbCIFiY')">+</button>
-      </grid-box></grid-item><grid-item id="EEewpLR">
-      <img id="fVxrBCy" src="https://raw.githubusercontent.com/es-ia-academy/moralito/main/media/images/white_200x75.jpg" data-type="image-fg" loading="lazy">
-    </grid-item><grid-item id="fHNDbmT"><grid-box id="tFLoZaJ"><grid-item id="MKkcPyZ">
-          <a id="GsLutpC" href="#" contenteditable="true">CARRITO <span class="total-quantity">0</span></a>
-          <button class="no-export button-delete-item" onclick="deleteItem('MKkcPyZ')">-</button>
-        </grid-item>
-        <button id="uXXFMzp" class="no-export grid-add-item" onclick="itemsLinks('tFLoZaJ','uXXFMzp')">+</button>
-      </grid-box></grid-item></grid-nav></grid-container></div><!--JS--><script id="qprYhtf" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"></button></section><section id="LxEEKxk" data-type="section"><!--CSS--><style id="bMRbGNK" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  }</style><!--HTML--><div id="skdaadg" data-type="html"><grid-container id="wqCKriE"><grid-bg id="GmHRmxI" data-type="grid-bg"><!-- bg-color --><div id="JTGSrBB" data-type="bg-color" class="div-visible"><div id="EitxIKU" data-type="solid-color" class="div-visible" style="background: rgb(255, 255, 255);"></div><div id="bgFiXDe" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div><div id="GFzUevR" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div></div><!-- bg-image --><div id="rIQDejJ" data-type="bg-image" class="div-hidden"><picture id="bnVjLrd"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="JpFLXUN" src="https://images.unsplash.com/photo-1470337458703-46ad1756a187?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Zm9vZHxlbnwwfDB8fHwxNzE2ODM1NjIzfDA&amp;ixlib=rb-4.0.3&amp;w=1280&amp;h=720&amp;fit=crop" data-type="img-bg" loading="lazy"></picture></div><!-- bg-video --><div id="acaIhNt" data-type="bg-video" class="div-hidden"><video id="VpXHkRe" autoplay="" loop="" muted="" loading="lazy"><source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4"></video></div></grid-bg><grid-nav id="FmcHWNT"><grid-item id="mtxABZR"><grid-box id="EmYttoi"><grid-item id="bHVVdit"><a id="XujwgdL" href="#LxEEKxk" contenteditable="true">MENU</a><button class="no-export button-delete-item" onclick="deleteItem('bHVVdit')">-</button></grid-item><button id="sbCIFiY" class="no-export grid-add-item" onclick="itemsLinks('EmYttoi','sbCIFiY')">+</button></grid-box></grid-item><grid-item id="EEewpLR"><img id="fVxrBCy" src="https://raw.githubusercontent.com/es-ia-academy/moralito/main/media/images/white_200x75.jpg" data-type="image-fg" loading="lazy"></grid-item><grid-item id="fHNDbmT"><grid-box id="tFLoZaJ"><grid-item id="MKkcPyZ"><a id="GsLutpC" href="#" contenteditable="true">CARRITO <span class="total-quantity">0</span></a><button class="no-export button-delete-item" onclick="deleteItem('MKkcPyZ')">-</button></grid-item><button id="uXXFMzp" class="no-export grid-add-item" onclick="itemsLinks('tFLoZaJ','uXXFMzp')">+</button></grid-box></grid-item></grid-nav></grid-container></div><!--JS--><script id="qprYhtf" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"></button></section><section id="LxEEKxk" data-type="section"><!--CSS--><style id="bMRbGNK" type="text/css" data-type="css" data-size="laptop" data-content="section">
   grid-container#ZudODFI {
     position: relative;
   }
@@ -456,6 +426,21 @@
   grid-box#IhNQUyJ{
     grid-template-columns: repeat(1, 1fr);
   }
-  }</style><!--HTML--><div id="NMVOlys" data-type="html"><div class="carrito" style="width:100%;background:red;padding:10px;"><div class="card-header"><h2>Cart <span class="total-quantity">0</span></h2></div><div class="card-body"><button class="btn btn-outline-warning mr-2" onclick="cartLS.destroy()">Empty</button><table class="table"><tbody class="cart"></tbody><tfoot><tr><td class="text-right">Total: <strong class="total"></strong></td><td></td></tr></tfoot></table></div></div></div><!--JS--><script id="vGdwXnB" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"></button></section>
-  
-  </grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
+  }</style><!--HTML--><div id="NMVOlys" data-type="html"><div class="carrito" style="width:100%;background:red;padding:10px;">
+  <div class="card-header">
+    <h2>Cart</h2>
+  </div>
+  <div class="card-body">
+    <button class="btn btn-outline-warning mr-2" onclick="cartLS.destroy()">Empty</button>
+    <table class="table">
+      <tbody class="cart"></tbody>
+      <tfoot>
+        <tr>
+          <td class="text-right">Total: <strong class="total"></strong>
+          </td>
+          <td></td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+</div></div><!--JS--><script id="vGdwXnB" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"></button></section></grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
