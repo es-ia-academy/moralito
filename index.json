@@ -1,12 +1,12 @@
 <style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page"></style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body">
-  <section id="IDEhetd" data-type="section">
+  <section id="VWslBch" data-type="section">
       
       <!--CSS-->
-      <style id="gidbvFO" type="text/css" data-type="css" data-size="laptop" data-content="section">
-  grid-container#tmyvCGD {
+      <style id="inPvioa" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  grid-container#VTllZoV {
     position: relative;
   }
-  grid-box#bpXSqsH{
+  grid-box#robeqwx{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(auto, 175px));
     grid-auto-rows: auto;
@@ -16,98 +16,98 @@
     padding: 3%;
     place-content: baseline;
   }
-  grid-bg#uGVfJgS {
+  grid-bg#eRQexcn {
     position: absolute;
     height:100%;
     width:100%;
     z-index:-1;
     display:block;
   }
-  div#pATjZYy,
-  div#YwDyhYt,
-  div#QgvuVwX,
-  div#ggPCtLM{
+  div#yOGXUHk,
+  div#XOAHHbk,
+  div#NzbaTjj,
+  div#GPNguIk{
     height:100%;
     width:100%;
   }
 
-  div#OhNfbPd{
+  div#GwdGgKv{
     height:100%;
     width:100%;
     
   }
 
-  div#nQJgNHS{
+  div#njFHxHe{
     height:100%;
     width:100%;
     
   }
 
-  img#KSSrklh {
+  img#JGBKGST {
     object-fit:cover;
     height:100%;
     width:100%;
   }
 
-  video#rHpKmZp {
+  video#ZWWBEyG {
     object-fit:cover;
     height:100%;
     width:100%;
   }
-  grid-box#bpXSqsH grid-item {
+  grid-box#robeqwx grid-item {
     box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
     border-radius: 10px;
     overflow: hidden;
     background:white;
   }
-  grid-box#bpXSqsH item-body {
+  grid-box#robeqwx item-body {
     padding: 15px;
     display: grid;
     gap: 10px;
   }
 
-  grid-box#bpXSqsH grid-title {
+  grid-box#robeqwx grid-title {
     font-size:1.5rem;
     color:black;
   }
 
-  grid-box#bpXSqsH grid-desc {
+  grid-box#robeqwx grid-desc {
     font-size: 12px;
     color: #929292;
   }
 
-  grid-box#bpXSqsH item-title {
+  grid-box#robeqwx item-title {
     color: black;
   }
 
-  grid-box#bpXSqsH item-desc {
+  grid-box#robeqwx item-desc {
     display: grid;
     font-size: 12px;
     color: #929292;
   }
-  grid-head#fOvEOAj{
+  grid-head#daZpnbt{
     grid-column: 1 / -1;
     display: grid;
     margin-left: 15px;
   }
-  grid-box#bpXSqsH item-head img{
+  grid-box#robeqwx item-head img{
     background-color: white;
     height: 100px;
     width:100%;
     object-fit:cover;
   }
   </style>
-      <style id="qxdidZC" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-box#bpXSqsH {
+      <style id="dZWYIGg" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-box#robeqwx {
     display: grid;
   }
   }</style>
-      <style id="vVVHsUf" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-head#fOvEOAj{
+      <style id="ciIFTYO" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-head#daZpnbt{
     text-align: center;
     padding: 35px;
   }
-  grid-box#bpXSqsH {
+  grid-box#robeqwx {
       display: grid;
       gap:5px;
       padding:0;
@@ -116,90 +116,218 @@
   }</style>
       
       <!--HTML-->
-      <div id="YBotaSK" data-type="html">
-        <grid-container id="zMQZVQn">
+      <div id="iNSVGAV" data-type="html">
+        <grid-container id="dsCVJvw">
           
-        <grid-bg id="uGVfJgS" data-type="grid-bg">
+        <grid-bg id="eRQexcn" data-type="grid-bg">
           <!-- bg-color -->
-          <div id="pATjZYy" data-type="bg-color" class="div-visible">
-            <div id="YwDyhYt" data-type="solid-color" class="div-visible" style="background: rgb(255, 255, 255);"></div>
-            <div id="QgvuVwX" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
-            <div id="ggPCtLM" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
+          <div id="yOGXUHk" data-type="bg-color" class="div-visible">
+            <div id="XOAHHbk" data-type="solid-color" class="div-visible" style="background: rgb(255, 255, 255);"></div>
+            <div id="NzbaTjj" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
+            <div id="GPNguIk" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
           </div> 
           <!-- bg-image -->
-          <div id="OhNfbPd" data-type="bg-image" class="div-hidden">
-            <picture id="TJESAII">
+          <div id="GwdGgKv" data-type="bg-image" class="div-hidden">
+            <picture id="CLqmuhM">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="KSSrklh" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/1707848593-1.webp" data-type="img-bg" loading="lazy">
+              <img id="JGBKGST" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/1707848593-1.webp" data-type="img-bg" loading="lazy">
             </picture>
           </div> 
           <!-- bg-video -->
-          <div id="nQJgNHS" data-type="bg-video" class="div-hidden">
-            <video id="rHpKmZp" autoplay="" loop="" muted="" loading="lazy">
+          <div id="njFHxHe" data-type="bg-video" class="div-hidden">
+            <video id="ZWWBEyG" autoplay="" loop="" muted="" loading="lazy">
               <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
             </video>
           </div> 
         </grid-bg>
 
 
-          <grid-box id="bpXSqsH">
-            <grid-head id="fOvEOAj">
-              <grid-title id="cNlpcQM" contenteditable="true">Lorem ipsum</grid-title>
-              <grid-desc id="kLeLCyQ" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
+          <grid-box id="robeqwx">
+            <grid-head id="daZpnbt">
+              <grid-title id="zBXNvxz" contenteditable="true">Lorem ipsum</grid-title>
+              <grid-desc id="DmmGEVc" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
             </grid-head>
-            <grid-item id="TYpomSK">
-        <item-head id="kBJyJSu">
-          <img id="uECigpY" src="https://images.unsplash.com/photo-1535478044878-3ed83d5456ef?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0NHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
+            <grid-item id="UwRTfIU">
+        <item-head id="SWECkQI">
+          <img id="kQDjXZp" src="https://images.unsplash.com/photo-1535478044878-3ed83d5456ef?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0NHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
-        <item-body id="dYBswYC">
-          <item-title id="keLPDpj" contenteditable="true">Lorem ipsum</item-title>
-          <item-desc id="aBlpMDo" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
+        <item-body id="uDpkMeQ">
+          <item-title id="cVmwHAY" contenteditable="true">Lorem ipsum</item-title>
+          <item-desc id="aEfcxyX" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
         </item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('TYpomSK')">-</button>
-      </grid-item><grid-item id="eHnAICq">
-        <item-head id="cQzUzEG">
-          <img id="sdhOhyq" src="https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NDV8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
+        <item-footer>
+          <button type="button" onclick="cartLS.add({id: UwRTfIU, name: 'Nike Air', price: 100})">Add to Cart </button>
+        </item-footer>
+        <button class="no-export grid-delete-item" onclick="deleteItem('UwRTfIU')">-</button>
+      </grid-item><grid-item id="xurwImH">
+        <item-head id="aZfbBdU">
+          <img id="MjKbKFK" src="https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NDV8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
-        <item-body id="chCGLAA">
-          <item-title id="RhLEisQ" contenteditable="true">Lorem ipsum</item-title>
-          <item-desc id="kHFHGFQ" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
+        <item-body id="mjCnzqo">
+          <item-title id="HYmrsHy" contenteditable="true">Lorem ipsum</item-title>
+          <item-desc id="hhoRqAf" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
         </item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('eHnAICq')">-</button>
-      </grid-item><grid-item id="kqaWAzu">
-        <item-head id="VzldPVI">
-          <img id="MKyxVqe" src="https://images.unsplash.com/photo-1502622796232-e88458466c33?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NjJ8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="XPOhxsb">
-          <item-title id="bQphgnC" contenteditable="true">Lorem ipsum</item-title>
-          <item-desc id="SqXTjhV" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
-        </item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('kqaWAzu')">-</button>
-      </grid-item><grid-item id="TorNKKE">
-        <item-head id="snRXIHM">
-          <img id="GChLTSB" src="https://images.unsplash.com/photo-1529600497935-f5fd7ccf888e?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0NXx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="aVPDDQo">
-          <item-title id="bNGxSuu" contenteditable="true">Lorem ipsum</item-title>
-          <item-desc id="AvrCNJh" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
-        </item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('TorNKKE')">-</button>
-      </grid-item><grid-item id="LSrrTQg">
-        <item-head id="HOQhlic">
-          <img id="CMOSRMV" src="https://images.unsplash.com/photo-1509664158680-07c5032b51e5?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw1NHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
-        </item-head>
-        <item-body id="vGknoPD">
-          <item-title id="kPhRXGE" contenteditable="true">Lorem ipsum</item-title>
-          <item-desc id="OFLgLvo" contenteditable="true">Lorem ipsum dolor sit amet, consectetur adipiscing elit</item-desc>
-        </item-body>
-        <button class="no-export grid-delete-item" onclick="deleteItem('LSrrTQg')">-</button>
-      </grid-item><button id="VDBNeiW" class="no-export grid-add-item" onclick="items200x200('bpXSqsH','VDBNeiW', '../global/file/empty.svg')">+</button>
+        <item-footer>
+          <button type="button" onclick="cartLS.add({id: xurwImH, name: 'Nike Air', price: 100})">Add to Cart </button>
+        </item-footer>
+        <button class="no-export grid-delete-item" onclick="deleteItem('xurwImH')">-</button>
+      </grid-item><button id="IgYhanO" class="no-export grid-add-item" onclick="products175x100('robeqwx','IgYhanO', '../global/file/empty.svg')">+</button>
           </grid-box>
         </grid-container>
       </div>
       
       <!--JS-->
-      <script id="UuhqUct" data-type="js"></script>
+      <script id="UfgFfWO" data-type="js"></script>
+      <!--EDIT-->
+      <button class="toolbar-open" onclick="toolsOpenModal(this)"></button>
+  </section>
+  
+  <section id="HhtefSK" data-type="section">
+      
+      <!--CSS-->
+      <style id="tocdXYJ" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  sectionTLrwmvK{
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
+    position: sticky;
+    top: 0;
+    z-index: 999;
+  }
+
+  grid-container#CmyPvDC {
+    position: relative;
+  }
+
+  grid-bg#TLrwmvK {
+    position: absolute;
+    height:100%;
+    width:100%;
+    z-index:-1;
+    display:block;
+  }
+  div#pvIxNGO,
+  div#LHPFhtk,
+  div#kVDavEf,
+  div#RaFaCNV{
+    height:100%;
+    width:100%;
+  }
+
+  div#rAikivv{
+    height:100%;
+    width:100%;
+    
+  }
+
+  div#EFywTML{
+    height:100%;
+    width:100%;
+    
+  }
+
+  img#DpSMiBj {
+    object-fit:cover;
+    height:100%;
+    width:100%;
+  }
+
+  video#dCLBrMX {
+    object-fit:cover;
+    height:100%;
+    width:100%;
+  }
+  
+  grid-box#LMkeuZO{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-auto-rows: auto;
+    width: 100%;
+    height: 100%;
+    min-height: 50px;
+    place-content: center left;
+    place-items: center;
+  }
+  grid-item#kGoztQP{
+    display: grid;
+    place-content: center;
+    padding: 15px;
+    gap: 15px;
+    height: auto;
+  }
+
+  img#uehiMwa{
+    object-fit:cover;
+    height:100%;
+    width:100%;
+  }
+  #xQCfUKE{
+    display: flex;
+    gap: 10px;
+    flex-flow: wrap;
+  }
+  #xQCfUKE a{
+    border: none;
+    padding: 0 15px;
+    color: white;
+    font-size: 14px;
+    border-radius: 10px;
+    text-underline-position: under;
+    height: 50px;
+    width: fit-content;
+    display: grid;
+    place-content: center;
+  }
+  
+  </style>
+      <style id="ShCfqRP" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){}</style>
+      <style id="vKMEBGp" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-box#LMkeuZO{
+    grid-template-columns: repeat(1, 1fr);
+  }
+  }</style>
+      
+      <!--HTML-->
+      <div id="wpoPwbV" data-type="html"><div class="container">
+  <div class="card mb-4 shadow-sm">
+    <div class="card-header">
+      <h4 class="my-0 font-weight-normal">Nike Air</h4>
+    </div>
+    <div class="card-body">
+      <h1 class="card-title pricing-card-title">$100</h1>
+      <button type="button" onclick="cartLS.add({id: 1, name: 'Nike Air', price: 100})">Add to Cart </button>
+    </div>
+  </div>
+  <div class="card mb-4 shadow-sm">
+    <div class="card-header">
+      <h4 class="my-0 font-weight-normal">Nike Air2</h4>
+    </div>
+    <div class="card-body">
+      <h1 class="card-title pricing-card-title">$200</h1>
+      <button type="button" onclick="cartLS.add({id: 2, name: 'Nike Air 2', price: 200})">Add to Cart </button>
+    </div>
+  </div>
+  <div class="carrito" style="position:fixed; left:0;bottom:0; width:100%;background:red;padding:10px;">
+    <div class="card-header">
+      <h2>Cart <small>(<span class="total-quantity"></span> items)</small>
+      </h2>
+    </div>
+    <div class="card-body">
+      <button class="btn btn-outline-warning mr-2" onclick="cartLS.destroy()">Empty</button><table class="table">
+        <tbody class="cart">
+        </tbody>
+        <tfoot>
+          <tr><td class="text-right">Total: <strong class="total"></strong>
+          </td>
+          
+          <td></td>
+        </tr></tfoot>
+      </table>
+    </div>
+  </div>
+</div></div>
+      
+      <!--JS-->
+      <script id="RBMqRuV" data-type="js"></script>
       <!--EDIT-->
       <button class="toolbar-open" onclick="toolsOpenModal(this)"></button>
   </section>
