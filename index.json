@@ -242,14 +242,14 @@ span.total-quantity {
       padding-bottom:35px;
       grid-template-columns: 1fr 1fr 1fr;
   }
-  }</style><!--HTML--><div id="HnZELAc" data-type="html"><grid-container id="OSPVDfJ"><grid-bg id="rraTmXT" data-type="grid-bg"><!-- bg-color --><div id="apHRfwX" data-type="bg-color" class="div-visible"><div id="UNsWqVf" data-type="solid-color" class="div-visible" style="background: rgb(255, 255, 255);"></div><div id="TRGtTdB" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div><div id="bkNlGpP" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div></div><!-- bg-image --><div id="MUjbhZE" data-type="bg-image" class="div-hidden"><picture id="mfEuTHL"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="LcAXHvM" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/1707848593-1.webp" data-type="img-bg" loading="lazy"></picture></div><!-- bg-video --><div id="CRvYODu" data-type="bg-video" class="div-hidden"><video id="GmNncQw" autoplay="" loop="" muted="" loading="lazy"><source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4"></video></div></grid-bg><grid-box id="ZtwsAYO"><grid-head id="GIEoWId"><grid-title id="MFDoOeq" contenteditable="true">MENU</grid-title><grid-desc id="zrITglo" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc></grid-head><grid-item id="hDuHFcM" class="clickable-div"><item-head id="vQgdbaz"><img id="OUNxmnV" src="https://images.unsplash.com/photo-1535478044878-3ed83d5456ef?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMjl8fGFic3RyYWN0fGVufDB8MHx8fDE3MTY2NjYyNDR8MA&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy"></item-head><item-body id="wSjCste"><item-desc id="AUEVJNu" contenteditable="true"><a href="#DqfXjnj" class="grid-link">BURGERS</a></item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('hDuHFcM')">-</button></grid-item><grid-item id="EWfEyNo" class="clickable-div"><item-head id="zDWLFMP"><img id="DoVNgDC" src="https://images.unsplash.com/photo-1558470598-a5dda9640f68?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHxjb2xvcnN8ZW58MHwwfHx8MTcxNjY2NDQ0NXww&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy"></item-head><item-body id="RKdqMqA"><item-desc id="NnDsaJX" contenteditable="true"><a href="" class="grid-link">Lorem</a></item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('EWfEyNo')">-</button></grid-item><grid-item id="mtDfLVb" class="clickable-div"><item-head id="yQaFkSx"><img id="IEMYroA" src="https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxjb2xvcnN8ZW58MHwwfHx8MTcxNjY2NDQ0NXww&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy"></item-head><item-body id="lpImdAg"><item-desc id="WBlnNnX" contenteditable="true"><a href="" class="grid-link">Lorem</a></item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('mtDfLVb')">-</button></grid-item><grid-item id="DweyZkW" class="clickable-div"><item-head id="ebUibEY"><img id="SzeCKxV" src="https://images.unsplash.com/photo-1472201248592-1241c92256ff?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw3fHxjb2xvcnN8ZW58MHwwfHx8MTcxNjY2NDQ0NXww&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy"></item-head><item-body id="OQInVsQ"><item-desc id="amXedoG" contenteditable="true"><a href="" class="grid-link">Lorem</a></item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('DweyZkW')">-</button></grid-item><grid-item id="XemuQDK" class="clickable-div"><item-head id="DBLUbXg"><img id="tGVFUMn" src="https://images.unsplash.com/photo-1505909182942-e2f09aee3e89?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOXx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NDV8MA&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy"></item-head><item-body id="nkNRFzl"><item-desc id="ToQpxmu" contenteditable="true"><a href="" class="grid-link">Lorem</a></item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('XemuQDK')">-</button></grid-item><grid-item id="gTbmroY" class="clickable-div"><item-head id="BPKPIAZ"><img id="obdIkTP" src="https://images.unsplash.com/photo-1530714457710-6bf1899c1d32?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NjJ8MA&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy"></item-head><item-body id="ABqhuSI"><item-desc id="OIOwnFL" contenteditable="true"><a href="" class="grid-link">Lorem</a></item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('gTbmroY')">-</button></grid-item><button id="FkwkeDt" class="no-export grid-add-item" onclick="itemsCercle('ZtwsAYO','FkwkeDt', '80px', '../global/file/empty.svg')">+</button></grid-box></grid-container></div><!--JS--><script id="KPFKapx" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"></button></section><section id="tixjqzL" data-type="section">
+  }</style><!--HTML--><div id="HnZELAc" data-type="html"><grid-container id="OSPVDfJ"><grid-bg id="rraTmXT" data-type="grid-bg"><!-- bg-color --><div id="apHRfwX" data-type="bg-color" class="div-visible"><div id="UNsWqVf" data-type="solid-color" class="div-visible" style="background: rgb(255, 255, 255);"></div><div id="TRGtTdB" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div><div id="bkNlGpP" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div></div><!-- bg-image --><div id="MUjbhZE" data-type="bg-image" class="div-hidden"><picture id="mfEuTHL"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="LcAXHvM" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/1707848593-1.webp" data-type="img-bg" loading="lazy"></picture></div><!-- bg-video --><div id="CRvYODu" data-type="bg-video" class="div-hidden"><video id="GmNncQw" autoplay="" loop="" muted="" loading="lazy"><source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4"></video></div></grid-bg><grid-box id="ZtwsAYO"><grid-head id="GIEoWId"><grid-title id="MFDoOeq" contenteditable="true">MENU</grid-title><grid-desc id="zrITglo" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc></grid-head><grid-item id="hDuHFcM" class="clickable-div"><item-head id="vQgdbaz"><img id="OUNxmnV" src="https://images.unsplash.com/photo-1535478044878-3ed83d5456ef?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxMjl8fGFic3RyYWN0fGVufDB8MHx8fDE3MTY2NjYyNDR8MA&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy"></item-head><item-body id="wSjCste"><item-desc id="AUEVJNu" contenteditable="true"><a href="#DqfXjnj" class="grid-link">BURGERS</a></item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('hDuHFcM')">-</button></grid-item><grid-item id="EWfEyNo" class="clickable-div"><item-head id="zDWLFMP"><img id="DoVNgDC" src="https://images.unsplash.com/photo-1558470598-a5dda9640f68?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyfHxjb2xvcnN8ZW58MHwwfHx8MTcxNjY2NDQ0NXww&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy"></item-head><item-body id="RKdqMqA"><item-desc id="NnDsaJX" contenteditable="true"><a href="" class="grid-link">Lorem</a></item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('EWfEyNo')">-</button></grid-item><grid-item id="mtDfLVb" class="clickable-div"><item-head id="yQaFkSx"><img id="IEMYroA" src="https://images.unsplash.com/photo-1541701494587-cb58502866ab?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwzfHxjb2xvcnN8ZW58MHwwfHx8MTcxNjY2NDQ0NXww&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy"></item-head><item-body id="lpImdAg"><item-desc id="WBlnNnX" contenteditable="true"><a href="" class="grid-link">Lorem</a></item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('mtDfLVb')">-</button></grid-item><grid-item id="DweyZkW" class="clickable-div"><item-head id="ebUibEY"><img id="SzeCKxV" src="https://images.unsplash.com/photo-1472201248592-1241c92256ff?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw3fHxjb2xvcnN8ZW58MHwwfHx8MTcxNjY2NDQ0NXww&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy"></item-head><item-body id="OQInVsQ"><item-desc id="amXedoG" contenteditable="true"><a href="" class="grid-link">Lorem</a></item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('DweyZkW')">-</button></grid-item><grid-item id="XemuQDK" class="clickable-div"><item-head id="DBLUbXg"><img id="tGVFUMn" src="https://images.unsplash.com/photo-1505909182942-e2f09aee3e89?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOXx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NDV8MA&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy"></item-head><item-body id="nkNRFzl"><item-desc id="ToQpxmu" contenteditable="true"><a href="" class="grid-link">Lorem</a></item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('XemuQDK')">-</button></grid-item><grid-item id="gTbmroY" class="clickable-div"><item-head id="BPKPIAZ"><img id="obdIkTP" src="https://images.unsplash.com/photo-1530714457710-6bf1899c1d32?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyM3x8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NjJ8MA&amp;ixlib=rb-4.0.3&amp;w=80&amp;h=80&amp;fit=crop" height="80px" width="80px" data-type="image-fg" loading="lazy"></item-head><item-body id="ABqhuSI"><item-desc id="OIOwnFL" contenteditable="true"><a href="" class="grid-link">Lorem</a></item-desc></item-body><button class="no-export grid-delete-item" onclick="deleteItem('gTbmroY')">-</button></grid-item><button id="FkwkeDt" class="no-export grid-add-item" onclick="itemsCercle('ZtwsAYO','FkwkeDt', '80px', '../global/file/empty.svg')">+</button></grid-box></grid-container></div><!--JS--><script id="KPFKapx" data-type="js"></script><!--EDIT--><button class="toolbar-open" onclick="toolsOpenModal(this)"></button></section><section id="IjAGUHn" data-type="section">
       
       <!--CSS-->
-      <style id="LUEPzFA" type="text/css" data-type="css" data-size="laptop" data-content="section">
-  grid-container#GPQcfCh {
+      <style id="AXxPpUt" type="text/css" data-type="css" data-size="laptop" data-content="section">
+  grid-container#RGMYhPR {
     position: relative;
   }
-  grid-box#uqIopSC{
+  grid-box#gpryzdQ{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(auto, 175px));
     grid-auto-rows: auto;
@@ -259,81 +259,81 @@ span.total-quantity {
     padding: 3%;
     place-content: baseline;
   }
-  grid-bg#EQwcJnm {
+  grid-bg#sFxwzjv {
     position: absolute;
     height:100%;
     width:100%;
     z-index:-1;
     display:block;
   }
-  div#LwIoMCk,
-  div#UuUzyOP,
-  div#kImVWIB,
-  div#vIGAvyE{
+  div#JNjxZDG,
+  div#ZozgiZW,
+  div#zyUWxqF,
+  div#AtQinhD{
     height:100%;
     width:100%;
   }
 
-  div#XvpDlmi{
+  div#cdAXONi{
     height:100%;
     width:100%;
     
   }
 
-  div#uXuOPwe{
+  div#fSpALBJ{
     height:100%;
     width:100%;
     
   }
 
-  img#GiNzrcI {
+  img#TEjVbJJ {
     object-fit:cover;
     height:100%;
     width:100%;
   }
 
-  video#wYIwgza {
+  video#QWZMjdC {
     object-fit:cover;
     height:100%;
     width:100%;
   }
-  grid-box#uqIopSC grid-item {
+  grid-box#gpryzdQ grid-item {
     box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
     border-radius: 10px;
     overflow: hidden;
     background:white;
   }
-  grid-box#uqIopSC item-body {
+  grid-box#gpryzdQ item-body {
     padding: 15px;
     display: grid;
     gap: 10px;
   }
 
-  grid-box#uqIopSC grid-title {
+  grid-box#gpryzdQ grid-title {
     font-size:1.5rem;
     color:black;
   }
 
-  grid-box#uqIopSC grid-desc {
+  grid-box#gpryzdQ grid-desc {
     font-size: 12px;
     color: #929292;
   }
 
-  grid-box#uqIopSC item-title {
+  grid-box#gpryzdQ item-title {
     color: black;
   }
 
-  grid-box#uqIopSC item-desc {
+  grid-box#gpryzdQ item-desc {
     display: grid;
     font-size: 12px;
     color: #929292;
   }
-  grid-head#vCvMPhf{
+  grid-head#tpfevTa{
     grid-column: 1 / -1;
     display: grid;
     margin-left: 15px;
   }
-  grid-box#uqIopSC item-head img{
+  grid-box#gpryzdQ item-head img{
     background-color: white;
     height: 100px;
     width:100%;
@@ -341,17 +341,17 @@ span.total-quantity {
   }
   
   </style>
-      <style id="jSKSOEE" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
-  grid-box#uqIopSC {
+      <style id="cmauSQk" type="text/css" data-type="css" data-size="tablet" data-content="section">@media screen and (min-width:641px) and (max-width:1024px){
+  grid-box#gpryzdQ {
     display: grid;
   }
   }</style>
-      <style id="bujRmVO" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
-  grid-head#vCvMPhf{
+      <style id="WRhbFZx" type="text/css" data-type="css" data-size="mobile" data-content="section">@media screen and (max-width:640px){
+  grid-head#tpfevTa{
     text-align: center;
     padding: 35px;
   }
-  grid-box#uqIopSC {
+  grid-box#gpryzdQ {
       display: grid;
       gap:5px;
       padding:0;
@@ -360,97 +360,97 @@ span.total-quantity {
   }</style>
       
       <!--HTML-->
-      <div id="wcaMWOK" data-type="html">
-        <grid-container id="PfrOqjK">
+      <div id="qUDhSSS" data-type="html">
+        <grid-container id="laMogGt">
           
-        <grid-bg id="EQwcJnm" data-type="grid-bg">
+        <grid-bg id="sFxwzjv" data-type="grid-bg">
           <!-- bg-color -->
-          <div id="LwIoMCk" data-type="bg-color" class="div-visible">
-            <div id="UuUzyOP" data-type="solid-color" class="div-visible" style="background: rgb(255, 255, 255);"></div>
-            <div id="kImVWIB" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
-            <div id="vIGAvyE" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
+          <div id="JNjxZDG" data-type="bg-color" class="div-visible">
+            <div id="ZozgiZW" data-type="solid-color" class="div-visible" style="background: rgb(255, 255, 255);"></div>
+            <div id="zyUWxqF" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
+            <div id="AtQinhD" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(0, 0, 0), rgb(0, 0, 0));"></div>
           </div> 
           <!-- bg-image -->
-          <div id="XvpDlmi" data-type="bg-image" class="div-hidden">
-            <picture id="NWqtxlA">
+          <div id="cdAXONi" data-type="bg-image" class="div-hidden">
+            <picture id="nlBKYSH">
               <source srcset="" media="(max-width:640px)">
               <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-              <img id="GiNzrcI" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/1707848593-1.webp" data-type="img-bg" loading="lazy">
+              <img id="TEjVbJJ" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/1707848593-1.webp" data-type="img-bg" loading="lazy">
             </picture>
           </div> 
           <!-- bg-video -->
-          <div id="uXuOPwe" data-type="bg-video" class="div-hidden">
-            <video id="wYIwgza" autoplay="" loop="" muted="" loading="lazy">
+          <div id="fSpALBJ" data-type="bg-video" class="div-hidden">
+            <video id="QWZMjdC" autoplay="" loop="" muted="" loading="lazy">
               <source src="https://github.com/IAMEDIA360/videos/raw/main/empty.mp4" type="video/mp4">
             </video>
           </div> 
         </grid-bg>
 
 
-          <grid-box id="uqIopSC">
-            <grid-head id="vCvMPhf">
-              <grid-title id="gIdUVch" contenteditable="true">Lorem ipsum</grid-title>
-              <grid-desc id="GRsEEdH" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
+          <grid-box id="gpryzdQ">
+            <grid-head id="tpfevTa">
+              <grid-title id="HMHBDqk" contenteditable="true">Lorem ipsum</grid-title>
+              <grid-desc id="duTRmAW" contenteditable="true">Lorem ipsum dolor sit amet</grid-desc>
             </grid-head>
-            <grid-item id="lRtTWvv">
-        <item-head id="VXDuqqo">
-          <img id="MjPPsNS" src="https://images.unsplash.com/photo-1535478044878-3ed83d5456ef?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0NHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
+            <grid-item id="LsjIZhl">
+        <item-head id="ICBnTGE">
+          <img id="KmASemp" src="https://images.unsplash.com/photo-1535478044878-3ed83d5456ef?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0NHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
-        <item-body id="RiOsOuv">
-          <product-id id="wrxhcGU" contenteditable="true">123456789</product-id>
-          <product-name id="IrstLWO" contenteditable="true">Lorem ipsum</product-name>
-          <product-price id="YZVxNKm" contenteditable="true">100</product-price>
+        <item-body id="rABtFGx">
+          <product-id id="djgkabw" contenteditable="true">123456789</product-id>
+          <product-name id="eDEnlpn" contenteditable="true">Lorem ipsum</product-name>
+          <product-price id="wGJQjWt" contenteditable="true">100</product-price>
         </item-body>
         
-          <button id="AyBmqpA" class="add-to-cart" onclick="getProductDetails('wrxhcGU', 'IrstLWO', 'YZVxNKm')" contenteditable="true"> Add to cart </button>
+          <button id="iMjdtep" class="add-to-cart" onclick="getProductDetails('djgkabw', 'eDEnlpn', 'wGJQjWt')"><span contenteditable="true"><span style="font-size: 13.3333px;">Añadir al carrito</span></span></button>
         
-        <button class="no-export grid-delete-item" onclick="deleteItem('lRtTWvv')">-</button>
-      </grid-item><grid-item id="SjsncXE">
-        <item-head id="DnKwNEj">
-          <img id="fpEzuEX" src="https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NDV8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
+        <button class="no-export grid-delete-item" onclick="deleteItem('LsjIZhl')">-</button>
+      </grid-item><grid-item id="TvkHatY">
+        <item-head id="KOmiNiI">
+          <img id="zvXeiJg" src="https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwxOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NDV8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
-        <item-body id="gcEjsiI">
-          <product-id id="NGAtDoh" contenteditable="true">123456789</product-id>
-          <product-name id="BQoRWgN" contenteditable="true">Lorem ipsum</product-name>
-          <product-price id="ynKdnya" contenteditable="true">100</product-price>
+        <item-body id="QzSpRqH">
+          <product-id id="PtqAETQ" contenteditable="true">123456789</product-id>
+          <product-name id="SivCikt" contenteditable="true">Lorem ipsum</product-name>
+          <product-price id="qLfrHdu" contenteditable="true">100</product-price>
         </item-body>
         
-          <button id="dnZDPwA" class="add-to-cart" onclick="getProductDetails('NGAtDoh', 'BQoRWgN', 'ynKdnya')" contenteditable="true"> Add to cart </button>
+          <button id="xuQxBkZ" class="add-to-cart" onclick="getProductDetails('PtqAETQ', 'SivCikt', 'qLfrHdu')"><span contenteditable="true"><span style="font-size: 13.3333px;">Añadir al carrito</span></span></button>
         
-        <button class="no-export grid-delete-item" onclick="deleteItem('SjsncXE')">-</button>
-      </grid-item><grid-item id="BMMCzpb">
-        <item-head id="YVnzmVt">
-          <img id="FonQqve" src="https://images.unsplash.com/photo-1502622796232-e88458466c33?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NjJ8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
+        <button class="no-export grid-delete-item" onclick="deleteItem('TvkHatY')">-</button>
+      </grid-item><grid-item id="QEMxkda">
+        <item-head id="fdsTIEJ">
+          <img id="OVukKxx" src="https://images.unsplash.com/photo-1502622796232-e88458466c33?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHwyOHx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0NjJ8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
-        <item-body id="OfdOzlY">
-          <product-id id="GuAaisc" contenteditable="true">123456789</product-id>
-          <product-name id="SXBzTuT" contenteditable="true">Lorem ipsum</product-name>
-          <product-price id="ykWndBL" contenteditable="true">100</product-price>
+        <item-body id="EwJmGXe">
+          <product-id id="DMzVmBB" contenteditable="true">123456789</product-id>
+          <product-name id="tDIaCmI" contenteditable="true">Lorem ipsum</product-name>
+          <product-price id="ejwDWWk" contenteditable="true">100</product-price>
         </item-body>
         
-          <button id="RsBFtSh" class="add-to-cart" onclick="getProductDetails('GuAaisc', 'SXBzTuT', 'ykWndBL')" contenteditable="true"> Add to cart </button>
+          <button id="sTXecfD" class="add-to-cart" onclick="getProductDetails('DMzVmBB', 'tDIaCmI', 'ejwDWWk')"><span contenteditable="true"><span style="font-size: 13.3333px;">Añadir al carrito</span></span></button>
         
-        <button class="no-export grid-delete-item" onclick="deleteItem('BMMCzpb')">-</button>
-      </grid-item><grid-item id="kNltKMs">
-        <item-head id="YvAVKre">
-          <img id="oQBpJOH" src="https://images.unsplash.com/photo-1529600497935-f5fd7ccf888e?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0NXx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
+        <button class="no-export grid-delete-item" onclick="deleteItem('QEMxkda')">-</button>
+      </grid-item><grid-item id="VpgQdAe">
+        <item-head id="LXcmYKu">
+          <img id="YijHHKZ" src="https://images.unsplash.com/photo-1529600497935-f5fd7ccf888e?ixid=M3wzOTcwOTd8MHwxfHNlYXJjaHw0NXx8Y29sb3JzfGVufDB8MHx8fDE3MTY2NjQ0ODB8MA&amp;ixlib=rb-4.0.3&amp;w=200&amp;h=200&amp;fit=crop" height="200" width="200" data-type="image-fg" loading="lazy">
         </item-head>
-        <item-body id="FcjSGlI">
-          <product-id id="pHYFoyY" contenteditable="true">123456789</product-id>
-          <product-name id="lfyquem" contenteditable="true">Lorem ipsum</product-name>
-          <product-price id="joqXsxc" contenteditable="true">100</product-price>
+        <item-body id="PwAwVzz">
+          <product-id id="lphCaOu" contenteditable="true">123456789</product-id>
+          <product-name id="MKitHVJ" contenteditable="true">Lorem ipsum</product-name>
+          <product-price id="oGvVZAu" contenteditable="true">100</product-price>
         </item-body>
         
-          <button id="pVGQqRY" class="add-to-cart" onclick="getProductDetails('pHYFoyY', 'lfyquem', 'joqXsxc')" contenteditable="true"> Add to cart </button>
+          <button id="onGJKLb" class="add-to-cart" onclick="getProductDetails('lphCaOu', 'MKitHVJ', 'oGvVZAu')"><span contenteditable="true">Añadir al carrito</span></button>
         
-        <button class="no-export grid-delete-item" onclick="deleteItem('kNltKMs')">-</button>
-      </grid-item><button id="qeoKHEr" class="no-export grid-add-item" onclick="products175x100('uqIopSC','qeoKHEr', '../global/file/empty.svg')">+</button>
+        <button class="no-export grid-delete-item" onclick="deleteItem('VpgQdAe')">-</button>
+      </grid-item><button id="xBZkjiS" class="no-export grid-add-item" onclick="products175x100('gpryzdQ','xBZkjiS', '../global/file/empty.svg')">+</button>
           </grid-box>
         </grid-container>
       </div>
       
       <!--JS-->
-      <script id="bpSBJGL" data-type="js"></script>
+      <script id="PodZoib" data-type="js"></script>
       <!--EDIT-->
       <button class="toolbar-open" onclick="toolsOpenModal(this)"></button>
   </section><section id="YnQJSZj" data-type="section"><!--CSS--><style id="Abotjah" type="text/css" data-type="css" data-size="laptop" data-content="section">
