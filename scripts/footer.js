@@ -57,7 +57,7 @@ function renderCart(items) {
 						<td>${item.quantity}</td>
 						<td><button type="button" onClick="cartLS.quantity(${item.id},-1)">-</button></td>
 						<td style="display:none">${item.price}</td>
-						<td class="device">${itemSubtotal}</td>
+						<td class="product-price">${itemSubtotal}</td>
 						<td><button onClick="cartLS.remove(${item.id})">Delete</button></td>
 					</tr>
 				`
