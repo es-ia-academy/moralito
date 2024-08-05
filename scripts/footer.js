@@ -51,19 +51,19 @@ function renderCart(items) {
 				const itemSubtotal = item.price * item.quantity
 				return `
 					<tr>
-						<td>#${item.id}</td>
+						<td style="display:none">#${item.id}</td>
 						<td>${item.name}</td>
-						<td>${item.quantity}</td>
 						<td><button type="button" onClick="cartLS.quantity(${item.id},1)">+</button></td>
+						<td>${item.quantity}</td>
 						<td><button type="button" onClick="cartLS.quantity(${item.id},-1)">-</button></td>
-						<td>$${item.price}</td>
-						<td>$${itemSubtotal}</td>
+						<td style="display:none">${item.price}</td>
+						<td class="device">${itemSubtotal}</td>
 						<td><button onClick="cartLS.remove(${item.id})">Delete</button></td>
 					</tr>
 				`
 			}).join("")
 
-			$total.innerHTML = "$" + cartLS.total()
+			$total.innerHTML = cartLS.total()
 			$totalQuantities.forEach(element => {
 				element.innerHTML = totalQuantity
 			})
