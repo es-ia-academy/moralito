@@ -1,8 +1,8 @@
 <style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page">grid-item#MKkcPyZ {
   display: flex;
 }
-grid-body{
-    display:grid;
+section{
+    overflow:hidden;
 }
 
 span.total-quantity {
